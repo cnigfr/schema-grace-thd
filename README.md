@@ -1,7 +1,7 @@
 # Aménagement Numérique des Territoires GraceTHD
 
 ## Description
-La [documentation du standard]([https://cnig.gouv.fr/les-standards-cnig-a18959.html#:~:text=Am%C3%A9nagement%20num%C3%A9rique%20des%20territoires](https://cnig.gouv.fr/gt-gracethd-a17477.html)) est disponible ici.
+La [documentation du standard](https://cnig.gouv.fr/gt-gracethd-a17477.html) est disponible ici.
 
 Le présent standard de données offre un cadre technique décrivant en détail la façon d'ordonner et de stocker au sein d'une base de données géographique exploitable par un outil SIG l'ensemble des informations relatives aux infrastructures de télécommunications électroniques existantes ou planifiées de très haut débit.
 
